@@ -12,7 +12,7 @@
 
 use Illuminate\Database\Seeder;
 
-class DatabaseSeeder extends Seeder
+class Oauth2DatabaseSeeder extends Seeder
 {
     /**
      * Run the database seeds.
